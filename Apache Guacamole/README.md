@@ -74,7 +74,7 @@ MYSQL_ROOT_PASSWORD=yourpassword
 MYSQL_DATABASE=guacamole_db
 MYSQL_USER=guac_user
 MYSQL_PASSWORD=guac_pass
-GUACAMOLE_VERSION=1.5.3
+GUACAMOLE_VERSION=1.6.0
 ```
 
 This keeps your credentials and versions customizable.
